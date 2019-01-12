@@ -1,7 +1,7 @@
 public class ProductTester {
     public static void main(String[] args) {
 
-        Product testProduct = new Product("ekler", 4.22);
+        Product testProduct = new Product("ekler", 2.12);
 
         Product[] products = new Product[4];
         products[0] = new Product( "ciasto", 4.56);
